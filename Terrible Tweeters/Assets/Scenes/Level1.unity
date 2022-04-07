@@ -1369,7 +1369,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 1102853689592895718, guid: 9cd1b5f0c4d0fef468f3b4f89886f014, type: 3}
       propertyPath: orthographic size
-      value: 6.101122
+      value: 6.108151
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9cd1b5f0c4d0fef468f3b4f89886f014, type: 3}
@@ -1383,6 +1383,10 @@ PrefabInstance:
     - target: {fileID: 7359127876981719410, guid: 3921528eb94679941b06276939d2c3b2, type: 3}
       propertyPath: m_Name
       value: LevelController
+      objectReference: {fileID: 0}
+    - target: {fileID: 7359127876981719412, guid: 3921528eb94679941b06276939d2c3b2, type: 3}
+      propertyPath: _nextLevelName
+      value: Level2
       objectReference: {fileID: 0}
     - target: {fileID: 7359127876981719413, guid: 3921528eb94679941b06276939d2c3b2, type: 3}
       propertyPath: m_RootOrder
